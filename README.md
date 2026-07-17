@@ -8,7 +8,7 @@
 
 **Advanced, easy-to-use in-game trainer.**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Troubleshooting](#-troubleshooting)
+[Features](#-features) • [Installation](#-installation)
 
 </div>
 
