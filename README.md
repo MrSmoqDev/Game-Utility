@@ -7,7 +7,7 @@
 
 **Advanced, easy-to-use in-game trainer.**
 
-[Features](#-features) • [Installation](#-installation)
+[Features](#features) • [Installation](#installation)
 
 </div>
 
